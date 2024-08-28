@@ -1,0 +1,13 @@
+services:
+  api:
+    image: cache-manager:webapi
+    build:
+      context: .
+      dockerfile: ../../src/CacheManager.WebAPI/Dockerfile
+    restart: always
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ASPNETCORE_HTTP_PORTS=8080
+      - TZ=Europe/Istanbul
+    ports:
+      - "8080:8080"

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ecBd9T1vLHza1O4a99KODByRx5dFJy17LeWsQQZhtT8=",
+  "Source": "CacheManager.WebAPI",
+  "BasePath": "_content/CacheManager.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

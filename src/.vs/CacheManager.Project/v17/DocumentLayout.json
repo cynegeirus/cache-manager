@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\CacheManager\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C10AC71B-8BF0-4FC1-A4A0-269DC3639245}|CacheManager.WebAPI\\CacheManager.WebAPI.csproj|d:\\projects\\cachemanager\\src\\cachemanager.webapi\\controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10AC71B-8BF0-4FC1-A4A0-269DC3639245}|CacheManager.WebAPI\\CacheManager.WebAPI.csproj|solutionrelative:cachemanager.webapi\\controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10AC71B-8BF0-4FC1-A4A0-269DC3639245}|CacheManager.WebAPI\\CacheManager.WebAPI.csproj|d:\\projects\\cachemanager\\src\\cachemanager.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C10AC71B-8BF0-4FC1-A4A0-269DC3639245}|CacheManager.WebAPI\\CacheManager.WebAPI.csproj|solutionrelative:cachemanager.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RedisController.cs",
+              "DocumentMoniker": "D:\\Projects\\CacheManager\\src\\CacheManager.WebAPI\\Controllers\\RedisController.cs",
+              "RelativeDocumentMoniker": "CacheManager.WebAPI\\Controllers\\RedisController.cs",
+              "ToolTip": "D:\\Projects\\CacheManager\\src\\CacheManager.WebAPI\\Controllers\\RedisController.cs",
+              "RelativeToolTip": "CacheManager.WebAPI\\Controllers\\RedisController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:49:06.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Projects\\CacheManager\\src\\CacheManager.WebAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "CacheManager.WebAPI\\Dockerfile",
+              "ToolTip": "D:\\Projects\\CacheManager\\src\\CacheManager.WebAPI\\Dockerfile",
+              "RelativeToolTip": "CacheManager.WebAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-30T08:41:40.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CacheManager.WebAPI.props" />
+</Project>

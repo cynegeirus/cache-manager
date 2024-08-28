@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 17
+VisualStudioVersion = 17.11.35118.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CacheManager.WebAPI", "CacheManager.WebAPI\CacheManager.WebAPI.csproj", "{C10AC71B-8BF0-4FC1-A4A0-269DC3639245}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CacheManager", "CacheManager\CacheManager.csproj", "{98EB813A-0BDE-4E35-B90D-CA0E35AF3D5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C10AC71B-8BF0-4FC1-A4A0-269DC3639245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10AC71B-8BF0-4FC1-A4A0-269DC3639245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10AC71B-8BF0-4FC1-A4A0-269DC3639245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10AC71B-8BF0-4FC1-A4A0-269DC3639245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98EB813A-0BDE-4E35-B90D-CA0E35AF3D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EB813A-0BDE-4E35-B90D-CA0E35AF3D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EB813A-0BDE-4E35-B90D-CA0E35AF3D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EB813A-0BDE-4E35-B90D-CA0E35AF3D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2B70E73-A1C6-4CFF-9D10-7A9F672BD37D}
+	EndGlobalSection
+EndGlobal

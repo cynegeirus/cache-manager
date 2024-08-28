@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "CacheManager.WebAPI.Controllers.RedisCacheController",
+    "Method": "Add",
+    "RelativePath": "api/RedisCache/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "item",
+        "Type": "CacheManager.Models.CacheItemModel\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CacheManager.WebAPI.Controllers.RedisCacheController",
+    "Method": "Delete",
+    "RelativePath": "api/RedisCache/Delete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CacheManager.WebAPI.Controllers.RedisCacheController",
+    "Method": "DeleteAll",
+    "RelativePath": "api/RedisCache/DeleteAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CacheManager.WebAPI.Controllers.RedisCacheController",
+    "Method": "Get",
+    "RelativePath": "api/RedisCache/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CacheManager.WebAPI.Controllers.RedisCacheController",
+    "Method": "GetAll",
+    "RelativePath": "api/RedisCache/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CacheManager.WebAPI.Controllers.WelcomeController",
+    "Method": "Get",
+    "RelativePath": "Welcome",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
