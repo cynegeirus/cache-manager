@@ -170,4 +170,4 @@ This project is licensed under the [MIT License](LICENSE). See the license file 
 
 ## Issues, Feature Requests or Support
 
-Please use the [New Issue](https://github.com/akinbicer/dotnet-cachemanager/issues/new) button to submit issues, feature requests or support issues directly to me. You can also send an e-mail to akin.bicer@outlook.com.tr.
+Please use the Issue > New Issue button to submit issues, feature requests or support issues directly to me. You can also send an e-mail to akin.bicer@outlook.com.tr.
